@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E47DCD87-6E68-44DD-B003-9C4EBF315A14}</ProjectGuid>
+    <ProjectGuid>{58114E32-82D6-4FB4-960D-4CCC3A919B49}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DP</RootNamespace>
-    <AssemblyName>DP</AssemblyName>
+    <RootNamespace>SingleResponsibiityPrinciple2</RootNamespace>
+    <AssemblyName>SingleResponsibiityPrinciple2</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
